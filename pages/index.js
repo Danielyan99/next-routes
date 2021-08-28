@@ -7,7 +7,7 @@ export default function Home() {
       <ul>
         <li><Link href="/artiklar">articles</Link></li>
         <li><Link href="/omOss">about</Link></li>
-          <li>9.4.4</li>
+          <li>9.2.1</li>
       </ul>
     </div>
   )
